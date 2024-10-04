@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system
-This is created by sadanand.
+This is created by sadanand
